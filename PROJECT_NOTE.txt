@@ -1,0 +1,10 @@
+This project was completed as part of a group coursework.
+
+My contributions included:
+- Data preprocessing and cleaning
+- Feature engineering
+- Model training and evaluation
+- Writing the individual report included in this repository
+
+This repository is uploaded for academic and portfolio purposes.
+
